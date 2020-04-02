@@ -1,6 +1,11 @@
+
 body{
     margin: 0;
     padding: 0rem;
     display: flex;
     justify-content: center;
+
+    background: red;
+    background-image: url(../../blogger/assets/Blog-post/blog1.png);
+
 }
